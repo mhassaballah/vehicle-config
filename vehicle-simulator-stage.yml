@@ -1,0 +1,2 @@
+vehicle-gateway-url:
+    http://gateway-service:8040/api/vehicle

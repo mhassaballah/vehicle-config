@@ -1,4 +1,2 @@
-feign:
-  hystrix:
-    enabled: true
- 
+vehicle-gateway-url:
+    http://localhost:8040/api/vehicle

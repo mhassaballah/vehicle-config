@@ -1,7 +1,7 @@
 spring: 
   datasource: 
     password: ENC(MJ02YXylRfAjKRmU4G5dyoTWbP1FuWYp)
-    url: jdbc:mysql://database-1.ckvoov2dqnim.us-east-1.rds.amazonaws.com/vehicles_db
+    url: jdbc:mysql://database-1.ckvoov2dqnim.us-east-1.rds.amazonaws.com/vehicles_db                       
     username: admin
 
 feign:
