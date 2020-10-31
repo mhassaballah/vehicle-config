@@ -6,10 +6,10 @@ zuul:
   routes:
     customer:
       path: /customer/**
-      url: http://127.0.0.1:8060/
+      url: http://customer-service:8060/
     vehicle:
       path: /vehicle/**
-      url: http://127.0.0.1:8091/
+      url: http://vehicle-service:8091/
 
 hystrix:
   command:
